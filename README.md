@@ -1,5 +1,5 @@
 <h3 align="center">A professional in love with technology</h3>
-<h1>Professional passionate about technology, focused on generating results, always looking for new knowledge and easy adaptation.
+<h4>Professional passionate about technology, focused on generating results, always looking for new knowledge and easy adaptation.
 I have soft skills, such as flexibility, good communication, patience, sense of leadership, ethics, team spirit, analytical skills, resilience and
 an agile mindset, I have an ease of continuous learning, especially with hands-on activities.
 About hard skills, I have knowledge with automated WEB, API and MOBILE tests using Java language and Tricentis Tosca, frameworks
@@ -7,7 +7,7 @@ built from, selenium, cucumber, junit, rest assured, appium in addition to Scrum
 Given the need to work on global projects, I have Spanish citizenship and fluency in English, I have free transit through the European
 Union.
 As a quality analyst, I have a sense of ownership for quality assurance throughout the SDLC cycle, taking the shift left testing concept and
-evangelizing the team with DevOps concepts to increase application maturity.</h1>
+evangelizing the team with DevOps concepts to increase application maturity.</h4>
 
 ##
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=gigibenedetti&label=Profile%20views&color=0e75b6&style=flat" alt="gigibenedetti" /> </p> -->
